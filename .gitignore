@@ -1,0 +1,6 @@
+.env
+.env.*
+*.env.bak
+proxy-helper-backups/
+*.tmp
+*.zip
